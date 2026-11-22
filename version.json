@@ -6,7 +6,8 @@
               },
     "min_supported":  "1.2.0",
     "download":  {
-                     "global":  "https://github.com/DeveloperCry/voco-releases/releases/download/v1.4.0/Voco-Setup-1.4.0.exe"
+                     "global":  "https://github.com/DeveloperCry/voco-releases/releases/download/v1.4.0/Voco-Setup-1.4.0.exe",
+                     "cn":  "https://voco-1257001659.cos.ap-guangzhou.myqcloud.com/Voco-Setup-1.4.0.exe"
                  },
     "sha256":  "56a382c19c04008bdd1a0d9f1ff68ef0c4ee11974648a23fe41e6d5f15f88349"
 }
