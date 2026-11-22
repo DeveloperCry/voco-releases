@@ -1,0 +1,12 @@
+{
+    "version":  "1.4.0",
+    "notes":  {
+                  "zh":  "官网正式版；详情卡/合为一条；全链路品牌图标；法务页与开源许可",
+                  "en":  "Public site; hover detail card; merge-split; unified brand icon; legal pages and OSS notices"
+              },
+    "min_supported":  "1.2.0",
+    "download":  {
+                     "global":  "https://github.com/DeveloperCry/voco-releases/releases/download/v1.4.0/Voco-Setup-1.4.0.exe"
+                 },
+    "sha256":  "56a382c19c04008bdd1a0d9f1ff68ef0c4ee11974648a23fe41e6d5f15f88349"
+}
